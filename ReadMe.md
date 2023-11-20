@@ -1,6 +1,6 @@
 # ukagakaSaori_DiffCalendarClang
 伺か/SSPで使用できるSAORIです。
-佐野日数を取得することができます。
+差の日数を取得することができます。
 ```
 ＃ A - B = 差
 差の日数 = （DiffCalendar,A年,A月,A日,B年,B月,B日）
